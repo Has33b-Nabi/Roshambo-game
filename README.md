@@ -9,7 +9,7 @@ Questo è un semplice gioco di sasso, carta, forbice implementato in Python. Il 
 5. Per terminare l'esecuzione del programma, inserisci "no" quando ti viene chiesto se vuoi giocare di nuovo.
 
 ## Requisiti
-> [Important!]
+> [!Important]
 > - Python 3.x
 
 ## Crediti
