@@ -15,5 +15,5 @@ Questo è un semplice gioco di sasso, carta, forbice implementato in Python. Il 
 ## Crediti
 Questo gioco è stato scritto da Haseeb Nabi.
 
-##license 
+## license 
 [GNU](https://github.com/Has33b-Nabi/Roshambo-game#:~:text=4%20minutes%20ago-,LICENSE,-Initial%20commit)
